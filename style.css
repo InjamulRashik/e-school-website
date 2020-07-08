@@ -51,43 +51,50 @@ p {
   height: 346px;
   width: 554px;
 }
-#mid-banner {
+.mid-banner {
   padding-top: 50px;
   padding-bottom: 50px;
 }
-#mid-banner img {
+.mid-banner img {
   height: 85px;
   width: 66px;
-  margin-bottom: 30px;
 }
-#mid-banner-item {
-  height: 270px;
-  width: 270px;
+.grid1 {
+  box-sizing: border-box;
   border: none;
-  border-radius: 10px;
-  align-items: center;
+  border-radius: 20px;
   padding-top: 50px;
   background-color: #f8fffb;
   text-align: center;
 }
-#mid-banner h3 {
+.grid2 {
+  box-sizing: border-box;
+  border: none;
+  border-radius: 20px;
+  padding-top: 50px;
+  background-color: #ffffff;
+  text-align: center;
+}
+.grid3 {
+  box-sizing: border-box;
+  border: none;
+  border-radius: 20px;
+  padding-top: 50px;
+  background-color: #f8fffb;
+  text-align: center;
+}
+.grid4 {
+  box-sizing: border-box;
+  border: none;
+  border-radius: 20px;
+  padding-top: 50px;
+  background-color: #f8fffb;
+  text-align: center;
+}
+.mid-banner h3 {
   color: #413960;
   font-size: 24px;
   font-weight: normal;
-}
-#mid-banner-item-diff {
-  height: 270px;
-  width: 270px;
-  border: none;
-  border-radius: 10px;
-  align-items: center;
-  padding-top: 50px;
-  text-align: center;
-}
-#mid-banner-item-diff img {
-  height: 85px;
-  width: 66px;
-  margin-bottom: 30px;
 }
 #courses-banner {
   text-align: center;
@@ -171,4 +178,12 @@ footer {
 }
 #bottom-banner p {
   color: white;
+}
+#header-content {
+  padding-top: 50px;
+}
+#contact-banner {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #f0fff0;
 }
