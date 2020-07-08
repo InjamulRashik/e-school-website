@@ -53,6 +53,7 @@ p {
 }
 #mid-banner {
   padding-top: 30px;
+  padding-bottom: 30px;
 }
 #mid-banner img {
   height: 85px;
@@ -91,6 +92,7 @@ p {
 #courses-banner {
   text-align: center;
   padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 #courses {
@@ -133,4 +135,40 @@ p {
 .date-seat img {
   height: 24px;
   width: 24px;
+}
+#testimonial {
+  font-size: 36px;
+  font-weight: bolder;
+  color: black;
+  text-align: center;
+  margin-bottom: 20px;
+}
+#testimonial-banner {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#test-image {
+  height: 120px;
+  width: 120px;
+  margin-right: 50px;
+}
+#testimonial-banner p {
+  font-size: 16px;
+  color: black;
+  margin-top: 20px;
+}
+#bottom-banner {
+  background-color: #282531;
+  color: white;
+  font-weight: 350;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+footer {
+  padding-top: 30px;
+  text-align: center;
+}
+#bottom-banner p {
+  color: white;
+  padding-bottom: 30px;
 }
